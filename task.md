@@ -1,0 +1,10 @@
+- array -> 2 -> username , passwords
+- username[0] -> passwords[0]
+- ask username
+- ask password
+- access granted
+- access not granted
+- ask whether they make a new account
+- username
+- password
+- password -> 
